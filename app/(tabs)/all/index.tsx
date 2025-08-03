@@ -3,7 +3,7 @@ import { View, Text } from "react-native";
 const All = () => {
     return (
         <View>
-            <Text>All 화면</Text>
+            <Text>전체 화면</Text>
         </View>
     );
 };
