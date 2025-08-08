@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
         backgroundColor: "#fff",
     },
     container: {
-        backgroundColor: "#000045",
+        backgroundColor: "#2962EB",
         paddingVertical: 40,
         paddingHorizontal: 20,
     },
@@ -18,4 +18,4 @@ export const styles = StyleSheet.create({
         color: "#fff",
         marginTop: 5,
     },
-})
+});
